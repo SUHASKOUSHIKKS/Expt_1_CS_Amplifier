@@ -85,7 +85,7 @@ Av = − gm (RD || ro)
 
 # Circuit Implementation
 
-![CS Circuit](cs_circuit.png)
+![CS Circuit](cs_circuit.png.png)
 
 # Device Parameters (From Datasheet)
 
@@ -186,7 +186,7 @@ Observations:
 
 This helps in selecting proper operating point for amplification.
 
-![DC Sweep](dc_sweep.png)
+![DC Sweep](dc_sweep.png.png)
 
 DC sweep analysis was performed by varying the gate voltage (VGS) and observing the variation in drain current (ID).
 
@@ -213,7 +213,7 @@ Observations:
 - Output voltage near mid-supply
 - MOSFET operating in saturation region
 This ensures linear amplification.
-![DC Operating Point](dc_operating_point.png)
+![DC Operating Point](dc_operating_point.png.png)
 
 Observed:
 
@@ -239,11 +239,11 @@ Input:
 - DC bias = 0.9V  
 The input waveform is a sinusoidal signal applied at the gate with a small amplitude and DC bias.  
 This represents the excitation signal given to the CS amplifier for amplification.
-![Transient Input](transient_input.png)
+![Transient Input](transient_input.png.png)
 
 The output waveform is amplified compared to the input waveform.  
 The amplitude increase confirms voltage amplification by the CS amplifier.
-![Transient Output](transient_output.png)
+![Transient Output](transient_output.png.png)
 
 
 Both input and output waveforms are plotted together.
@@ -254,7 +254,7 @@ Observations:
 - DC shift present due to biasing.
 
 This confirms proper working of Common Source amplifier.
-![Transient Combined](transient_combined.png)
+![Transient Combined](transient_combined.png.png)
 
 Measured:
 
@@ -326,7 +326,7 @@ Hence difference between theoretical and simulated gain is expected and validate
 
 ## Without Load Capacitor
 High bandwidth observed due to only MOSFET parasitic capacitances affecting frequency response.
-![AC Without Capacitor](ac_without_capacitor.png)
+![AC Without Capacitor](ac_without_capacitor.png.png)
 
 Unity gain not reached within plotted frequency range.
 
@@ -349,7 +349,7 @@ Cutoff frequency:
 ## With Load Capacitor CL = 10pF
 Bandwidth reduces due to added load capacitance introducing dominant pole.
 
-![AC With Capacitor](ac_with_capacitor.png)
+![AC With Capacitor](ac_with_capacitor.png.png)
 
 -3dB gain point:
 
