@@ -239,10 +239,12 @@ Input:
 - DC bias = 0.9V  
 The input waveform is a sinusoidal signal applied at the gate with a small amplitude and DC bias.  
 This represents the excitation signal given to the CS amplifier for amplification.
+
 ![Transient Input](transient_input.png.png)
 
 The output waveform is amplified compared to the input waveform.  
 The amplitude increase confirms voltage amplification by the CS amplifier.
+
 ![Transient Output](transient_output.png.png)
 
 
@@ -254,6 +256,7 @@ Observations:
 - DC shift present due to biasing.
 
 This confirms proper working of Common Source amplifier.
+
 ![Transient Combined](transient_input_output.png.png)
 
 Measured:
