@@ -254,7 +254,7 @@ Observations:
 - DC shift present due to biasing.
 
 This confirms proper working of Common Source amplifier.
-![Transient Combined](transient_combined.png.png)
+![Transient Combined](transient_input_output.png.png)
 
 Measured:
 
