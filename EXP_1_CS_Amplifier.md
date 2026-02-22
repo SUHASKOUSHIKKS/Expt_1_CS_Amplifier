@@ -1,6 +1,6 @@
 #  Linear Integrated Circuits Laboratory  
 
-## Experiment: Design of Common Source Amplifier using NMOS (TSMC 180nm)
+## Experiment 1: Design of Common Source Amplifier using NMOS (TSMC 180nm)
 
 **Name:** Suhas Koushik K S  
 **USN:** 4NI24EC180  
