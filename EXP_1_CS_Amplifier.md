@@ -4,11 +4,10 @@
 
 **Name:** Suhas Koushik K S  
 **USN:** 4NI24EC180  
-**Branch:** Electronics and Communication Engineering 
-**Lab Course:** Linear Integrated Circuits (BEC456B)
+**Branch:** Electronics and Communication Engineering  
+**Lab Course:** Linear Integrated Circuits (BEC456B)  
 **Tool Used:** LTspice  
 **Technology Library:** TSMC 180nm  
-
 ---
 
 # Problem Statement
