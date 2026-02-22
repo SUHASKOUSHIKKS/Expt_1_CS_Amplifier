@@ -237,18 +237,19 @@ Input:
 - Frequency = 1kHz  
 - Amplitude = 10mV  
 - DC bias = 0.9V  
-The input waveform is a sinusoidal signal applied at the gate with a small amplitude and DC bias.  
+
+→→The input waveform is a sinusoidal signal applied at the gate with a small amplitude and DC bias.  
 This represents the excitation signal given to the CS amplifier for amplification.
 
 ![Transient Input](transient_input.png.png)
 
-The output waveform is amplified compared to the input waveform.  
+→→The output waveform is amplified compared to the input waveform.  
 The amplitude increase confirms voltage amplification by the CS amplifier.
 
 ![Transient Output](transient_output.png.png)
 
 
-Both input and output waveforms are plotted together.
+→→Both input and output waveforms are plotted together.
 
 Observations:
 - Output amplitude is greater than input → amplification achieved.
