@@ -12,7 +12,7 @@
 
 # Problem Statement
 
-Design a Common Source (CS) amplifier using an NMOS transistor in TSMC 180nm technology library using LTspice with the following specifications:
+Q1))Design a Common Source (CS) amplifier using an NMOS transistor in TSMC 180nm technology library using LTspice with the following specifications:
 
 - Supply voltage (VDD) = 1.8V  
 - Power constraint P ≤ 1mW  
